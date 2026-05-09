@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04342C,50:0F6E56,100:1D9E75&height=200&section=header&text=Ahmed%20Bin%20Jaffar&fontSize=42&fontColor=E1F5EE&fontAlignY=35&desc=Data%20Analyst%20%26%20BI%20Developer&descAlignY=55&descSize=15&animation=fadeIn&fontFamily=Georgia" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04342C,50:0F6E56,100:1D9E75&height=200&section=header&text=Ahmed%20Bin%20Jaffar&fontSize=42&fontColor=E1F5EE&fontAlignY=35&desc=Data%20Analyst%20%7C%20BI%20Developer&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=500&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=520&lines=MS+Data+Science+%40+Mehran+UET;Data+Analyst+%26+BI+Developer;Python+%7C+Pandas+%7C+Power+BI;Turning+Data+into+Decisions" alt="Typing animation" />
