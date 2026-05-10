@@ -53,11 +53,6 @@ Currently deepening expertise in advanced SQL, Power BI, and ML-driven analytics
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadbinjaffar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=04342C&title_color=5DCAA5&icon_color=1D9E75&text_color=9FE1CB" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbinjaffar&layout=compact&theme=tokyonight&hide_border=true&bg_color=04342C&title_color=5DCAA5&text_color=9FE1CB" width="48%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadbinjaffar&theme=tokyonight&hide_border=true&background=04342C&stroke=1D9E75&ring=0F6E56&fire=5DCAA5&currStreakLabel=9FE1CB" width="60%" />
 </div>
 
